@@ -127,7 +127,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Manole_Mihai-Alexandru_ActivitateSD2026.c" />
+    <Text Include="dosare.txt" />
+    <Text Include="res.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="cozi.c" />
+    <ClCompile Include="fisier.c" />
+    <ClCompile Include="fisier2.c" />
+    <ClCompile Include="listaDubla.c" />
+    <ClCompile Include="liste.c" />
+    <ClCompile Include="stiva.c" />
+    <ClCompile Include="vectori.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Manole_Mihai-Alexandru_ActivitateSD2026.slnx" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

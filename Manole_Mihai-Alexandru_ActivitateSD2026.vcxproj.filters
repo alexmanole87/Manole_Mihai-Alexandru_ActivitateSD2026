@@ -15,8 +15,33 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Manole_Mihai-Alexandru_ActivitateSD2026.c">
+    <Text Include="res.txt" />
+    <Text Include="dosare.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stiva.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="vectori.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="liste.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cozi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fisier.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="fisier2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="listaDubla.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Manole_Mihai-Alexandru_ActivitateSD2026.slnx" />
   </ItemGroup>
 </Project>
